@@ -1,5 +1,5 @@
-# Weather-App
+ # Weather-App
 Weather app using 
-*Retrofit 
-*butterknife
-*Yahoo API
+* Retrofit 
+* butterknife
+* Yahoo API
